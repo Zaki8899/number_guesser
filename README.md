@@ -1,1 +1,1 @@
-# number_guesser
+# guess-the-number
